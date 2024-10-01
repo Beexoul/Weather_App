@@ -57,7 +57,7 @@ To set up this project locally, follow these steps:
 3. To search for weather in a different city, type the city name in the search bar and click the search icon.
 
 ## Folder Structure
-
+```
 |
 ├── public/
 ├── src/
@@ -84,7 +84,7 @@ To set up this project locally, follow these steps:
 ├── package.json
 ├── README.md
 └── vite.config.js
-
+```
 
 - **src/components**: Contains the Weather component, which is responsible for fetching and displaying weather data.
 - **src/assets**: Stores static assets like weather icons (clear, rain, cloud, etc.).
